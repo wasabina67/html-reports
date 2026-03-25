@@ -1,9 +1,12 @@
 import './App.css'
+import SimpleList from './components/SimpleList/SimpleList'
+import SimpleTable from './components/SimpleTable/SimpleTable'
 
 function App() {
   return (
     <>
-      <div>hello</div>
+      <SimpleList />
+      <SimpleTable />
     </>
   )
 }
