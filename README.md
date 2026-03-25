@@ -13,6 +13,9 @@ npm create vite@latest . -- --template react-ts
 
 ```bash
 npm install
+```
+
+```bash
 npm run dev
 ```
 
