@@ -79,3 +79,4 @@ export default ReportName
 
 1. `src/components/{ReportName}/` ディレクトリを作成
 2. `{ReportName}.tsx`（エントリポイント）、`{ReportName}.css`、`Page1.tsx` を作成
+3. `src/App.tsx` を編集し、指示された帳票コンポーネントだけをimport・表示（既存のimportは削除する）
