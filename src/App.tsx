@@ -1,10 +1,10 @@
 import './App.css'
-import SimpleTwoColumn from './components/SimpleTwoColumn/SimpleTwoColumn'
+import SimpleRecipe from './components/SimpleRecipe/SimpleRecipe'
 
 function App() {
   return (
     <>
-      <SimpleTwoColumn />
+      <SimpleRecipe />
     </>
   )
 }
