@@ -9,7 +9,7 @@ This project was scaffolded with [Vite](https://vite.dev/) using the `react-ts` 
 npm create vite@latest . -- --template react-ts
 ```
 
-## Development
+## Dev
 
 ```bash
 npm install
@@ -25,4 +25,10 @@ http://localhost:5173/html-reports/
 
 ```bash
 npm run build
+```
+
+## Lint
+
+```bash
+npm run lint
 ```
