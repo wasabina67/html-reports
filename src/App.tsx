@@ -1,10 +1,10 @@
 import './App.css'
-import SimpleProgress from './components/SimpleProgress/SimpleProgress'
+import CustomerFeedback from './components/CustomerFeedback/CustomerFeedback'
 
 function App() {
   return (
     <>
-      <SimpleProgress />
+      <CustomerFeedback />
     </>
   )
 }
