@@ -1,10 +1,10 @@
 import './App.css'
-import SimpleBarChart from './components/SimpleBarChart/SimpleBarChart'
+import SimpleSummary from './components/SimpleSummary/SimpleSummary'
 
 function App() {
   return (
     <>
-      <SimpleBarChart />
+      <SimpleSummary />
     </>
   )
 }
