@@ -1,10 +1,10 @@
 import './App.css'
-import SimpleSummary from './components/SimpleSummary/SimpleSummary'
+import SimpleProgress from './components/SimpleProgress/SimpleProgress'
 
 function App() {
   return (
     <>
-      <SimpleSummary />
+      <SimpleProgress />
     </>
   )
 }
